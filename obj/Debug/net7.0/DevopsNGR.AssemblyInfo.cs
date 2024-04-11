@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevopsNGR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9bfdf87d6e83acd70e2a575b2ea8002691ee4db")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevopsNGR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevopsNGR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

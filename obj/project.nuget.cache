@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AJvXNMSpHhxUsXWLhj3gSrKhcF1Az22Fz62t5tYpWBM7M5CZI7M+8XopS5jDf8rM3klO86Kxwh52P+JwsN3uAQ==",
+  "dgSpecHash": "BxHeCVe/0ghTRhoTnpKiCbCveDgUErJGpkvbf1rNmP/5YjRNf7RCp+wSiv6Ibk6N5vYK5TFboC8LBuooAcv11g==",
   "success": true,
   "projectFilePath": "C:\\Users\\lovekesharya\\OneDrive - Nagarro\\Desktop\\DevopsNGR\\DevopsNGR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lovekesharya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
     "C:\\Users\\lovekesharya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\lovekesharya\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\lovekesharya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\lovekesharya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\lovekesharya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\lovekesharya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
