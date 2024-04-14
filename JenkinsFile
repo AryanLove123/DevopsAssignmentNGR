@@ -7,6 +7,8 @@ environment {
     IMAGE_NAME='aryanlove07/devopsassignment'
  
     IMAGE_TAG='latest'
+
+    CONTAINER_NAME = 'devops'
  
 }
 stages {
@@ -53,9 +55,9 @@ stage('Run container') {
 steps {
  
 script{
-    sh 'docker stop ${IMAGE_NAME} || true'
-    sh 'docker rm -f ${IMAGE_NAME} || true '
-    sh "docker run -d --name devops -p 8001:80 ${IMAGE_NAME}:${IMAGE_TAG}"
+    sh "docker stop ${CONTAINER_NAME} || true"
+    sh "docker rm -f ${CONTAINER_NAME} || true"
+    sh "docker run -d --name ${CONTAINER_NAME} -p 8001:80 ${IMAGE_NAME}:${IMAGE_TAG}"
 }
  
 }
